@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Muhammad Abdullah 👋
 
-<!--
-**abdullahqaautomation/abdullahqaautomation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 SQA Engineer | Automation Specialist | QA Lead
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+* 6+ years of experience in Software Quality Assurance
+* Specialized in **Playwright, API Automation, and CI/CD pipelines**
+* Currently leading QA efforts and building scalable automation frameworks
+* Strong focus on **AI-driven testing and modern QA practices**
+
+---
+
+## 🔧 Tech Stack
+
+* Playwright (TypeScript)
+* Selenium (Java)
+* RestAssured
+* Postman / Newman
+* Bitbucket Pipelines
+* Docker
+* Git
+
+---
+
+## 🤖 AI in Testing
+
+* Experience with **Claude and AI-based testing workflows**
+* AI response validation & prompt testing
+* Campaign workflow automation
+* Semantic and keyword-based validation
+
+---
+
+## 📂 Featured Work
+
+🔹 QA Automation Portfolio
+👉 (Add your repo link here after pushing)
+
+---
+
+## 👨‍👨‍👦 Leadership
+
+* Leading QA team
+* Test planning & execution
+* Framework design
+* Release verification
+
+---
+
+## 📬 Connect
+
+📍 Lahore, Pakistan
