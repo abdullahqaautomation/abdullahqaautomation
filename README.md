@@ -1,10 +1,10 @@
-#Hi, I'm Muhammad Abdullah 👋
+# Hi, I'm Muhammad Abdullah 👋
 
- SQA Engineer | Automation Specialist | QA Lead
+SQA Engineer | Automation Specialist | QA Lead
 
 ---
 
-##About Me
+## About Me
 
 * 6+ years of experience in Software Quality Assurance
 * Specialized in **Playwright, API Automation, and CI/CD pipelines**
@@ -13,7 +13,7 @@
 
 ---
 
-##Tech Stack
+## Tech Stack
 
 * Playwright (TypeScript)
 * Selenium (Java)
@@ -25,7 +25,7 @@
 
 ---
 
-##AI in Testing
+## AI in Testing
 
 * Experience with **Claude and AI-based testing workflows**
 * AI response validation & prompt testing
@@ -35,7 +35,7 @@
 ---
 
 
-##Leadership
+## Leadership
 
 * Leading QA team
 * Test planning & execution
